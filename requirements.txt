@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow>=2.4
+tensorflow-cpu==2.16.1
 plotly
 yfinance
 backtrader
