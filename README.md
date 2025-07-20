@@ -5,7 +5,7 @@ A comprehensive machine learning platform for stock price prediction and algorit
 ## 🚀 Overview
 
 This platform integrates multiple advanced machine learning models to provide accurate stock price forecasting and automated trading strategy backtesting. It supports both regression (exact price prediction) and classification (direction prediction) modes, with real-time data integration and interactive visualization.
-
+## Link Video: https://youtu.be/H7qyygVAqAY
 ## 🏗️ System Architecture
 
 ### Core Components
